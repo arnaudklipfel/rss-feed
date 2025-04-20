@@ -1,2 +1,2 @@
-# rssfeed
-RSS Feed Based on TinyFeed
+# rss-feed
+RSS Feed based on TinyFeed
